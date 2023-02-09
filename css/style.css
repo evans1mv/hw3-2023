@@ -108,13 +108,12 @@ h1, h2, h3{
      box-shadow: 10px 0px rgb(50, 50, 50), -10px 0px rgb(50, 50, 50) ;
   
 }
-    
 
 p + p {
      /* Set indentation */
      text-indent: 20px;
   }
-  
+
 p{
      /* Set margin */
      margin: 15px 0px 0px 0px;
@@ -125,5 +124,5 @@ p{
     /* Set margin, line-spacing, list styling  */
     margin: 0px 0px 15px 15px;
     line-height:1;
-    list-style-image: url('/images/sketchbook.png');
+    list-style-image: url('images/sketchbook.png');
 }
